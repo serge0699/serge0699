@@ -8,10 +8,10 @@
 <div align="center">
 
 <a href="https://github.com/serge0699/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=serge0699" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=serge0699" />
 </a>
 <a href="https://github.com/serge0699/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serge0699&layout=compact&langs_count=5&card_width=380" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serge0699&layout=compact&langs_count=5&card_width=380" />
 </a>
 
 </div>
