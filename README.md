@@ -1,4 +1,20 @@
-## Hi there 👋
+<div align="center">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Sergey_Chusov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-chusov-699768251/)
+  [![Telegram Badge](https://img.shields.io/badge/-Sergey_Chusov-29a9eb?style=flat&labelColor=29a9eb&logo=telegram&logoColor=white)](https://www.linkedin.com/in/sergey-chusov-699768251/)
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/serge0699/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=serge0699" />
+</a>
+<a href="https://github.com/serge0699/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serge0699&layout=compact&langs_count=5&card_width=380" />
+</a>
+
+</div>
 
 <!--
 **serge0699/serge0699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
